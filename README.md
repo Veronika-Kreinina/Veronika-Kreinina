@@ -1,12 +1,14 @@
 - 👋 Hi, I’m @Veronika-Kreinina
-- 👀 I’m interested in IT
-- 🌱 I’m currently learning Fullstack Developing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-Veronika-Kreinina/Veronika-Kreinina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- My focus is on becoming a skilled Fullstack Developer
+- 👀 I’m interested in self-development, learnering new and love exploring beyond 
+- 🌱 I’m currently learning:
+- JavaScript
+- React
+- Node.js
+- API Integration
+- Version Control (Git & GitHub)
+- 💞️ I’m looking to collaborate on projects involving web aplications, frontend and backend development 
+- 📫 How to reach me veronika.kr.0608@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact:
+Did you know that the first computer programmer was a woman? Ada Lovelace wrote the first algorithm in the 1840s for Charles Babbage’s Analytical Engine, making her the pioneer of programming long before modern computers existed!
